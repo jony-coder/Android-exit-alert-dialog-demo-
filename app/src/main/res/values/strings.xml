@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Alert Dialog Demo</string>
+    <string name="buttonName">Exit</string>
+</resources>
